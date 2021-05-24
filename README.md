@@ -13,7 +13,8 @@ python>=3.6
 ## Demonstration
 <pre>
 1. Start up Jupyter Notebook
-2. Run 
+2. Ensure sample images are in ./images 
+3. Run morph_images.ipynb (more details available in the notebook)
 </pre>
 
 ## Citation
