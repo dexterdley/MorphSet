@@ -16,7 +16,7 @@ python>=3.6
 2. Ensure that the sample images are in ./images 
 3. Run morph_images.ipynb (more details available in the notebook)
 </pre>
-![Selection_036](https://user-images.githubusercontent.com/61958401/119307234-f4ed1e80-bc9d-11eb-8371-d29ad95d812b.png)
+![Selection_037](https://user-images.githubusercontent.com/61958401/119307811-d2a7d080-bc9e-11eb-98cf-8c3247146c25.png)
 
 
 ## Citation
