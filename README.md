@@ -1,4 +1,4 @@
-# Implementation of facial morphing and affect augmentation, MorphSet
+# Implementation of facial morphing and affect augmentation: MorphSet
 Augmenting categorical emotion datasets with dimensional affect labels using face morphing
 
 # Requirements
