@@ -1,4 +1,4 @@
-# MorphSet
+# Implementation of facial morphing and affect augmentation, MorphSet
 Augmenting categorical emotion datasets with dimensional affect labels using face morphing
 
 # Requirements
@@ -6,6 +6,7 @@ Augmenting categorical emotion datasets with dimensional affect labels using fac
 
 dlib
 opencv
+jupyter notebook
 python>=3.6
 </pre>
 
