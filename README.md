@@ -10,6 +10,12 @@ jupyter notebook
 python>=3.6
 </pre>
 
+## Demonstration
+<pre>
+1. Start up Jupyter Notebook
+2. Run 
+</pre>
+
 ## Citation
 If you find this work helpful, please cite:
 <pre>
